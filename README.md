@@ -5,7 +5,6 @@
 - [Diagram Alur Proses](#diagram-alur-proses)
 - [Dependensi](#dependensi)
 - [Tim](#tim)
-- [Ucapan Terima Kasih](#ucapan-terima-kasih)
 
 ---
 
@@ -18,7 +17,8 @@ Sebagai bagian dari proyek ini, sebuah Storyboard telah dibuat untuk menyajikan 
 
 ## Diagram Alur Proses
 
-![Analisis drawio](https://github.com/user-attachments/assets/b464487b-c17b-4da6-953c-fdf6f017ed0e)
+![Analisis drawio]![Diagram Tanpa Judul drawio](https://github.com/user-attachments/assets/27500814-b93f-4c80-855a-f3a6d3373d27)
+
 
 ### Penjelasan Diagram  
 
